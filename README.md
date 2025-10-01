@@ -1,4 +1,4 @@
-# 👋 Eu sou o Lucas Shimazaki Batistti
+# 👋 Me chamo Lucas Shimazaki Batistti
 
 🎯 **Analista de Dados**  
 🎓 Estudante de **Ciência da Computação** na [FURB](https://www.furb.br)  
