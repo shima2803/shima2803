@@ -1,46 +1,39 @@
-👋 Me chamo Lucas Shimazaki
+LUCAS SHIMAZAKI BATISTTI
 
-🎯 Analista de Dados na Oliveira & Antunes
-🎓 Estudante de Ciência da Computação na FURB (desde 2020)
-⚙️ Focado em automação de processos, análise de dados e desenvolvimento de soluções internas
+Analista de Dados | Estudante de Ciência da Computação | Automação, SQL e Desenvolvimento
 
-🚀 Sobre mim
+🎯 Sobre mim
 
-Sou apaixonado por tecnologia e por resolver problemas por meio de dados.
-Atuo como Analista de Dados, desenvolvendo consultas SQL avançadas, relatórios, automações e ferramentas internas que tornam processos mais eficientes e seguros.
+Sou apaixonado por tecnologia e por resolver problemas reais usando dados e automação. Atuo como Analista de Dados na Oliveira & Antunes, criando consultas SQL avançadas, dashboards, automações em Python e ferramentas internas que deixam processos mais eficientes e inteligentes.
 
-Desde 2020 estudo Ciência da Computação, sempre buscando aprofundar meu conhecimento em desenvolvimento, boas práticas e engenharia de dados.
+Estudo Ciência da Computação na FURB desde 2020, buscando sempre evoluir em engenharia de dados, automação e desenvolvimento de soluções que realmente entregam valor.
 
-🛠️ Tecnologias & Ferramentas
+🎓 Formação
 
-Linguagens e Desenvolvimento
+🎓 Ciência da Computação — FURB (desde 2020)
 
-Java (POO, aplicações desktop e web)
+💼 Analista de Dados — Oliveira & Antunes
 
-Python (automação, scripts, RPA, análise de dados)
-
-JavaScript (fundamentos e front-end básico)
-
+🛠️ Tecnologias
+Linguagens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+Web & Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+Back-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 Banco de Dados
-
-SQL / MySQL / MariaDB
-
-Modelagem de dados
-
-Criação e otimização de queries
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50"/> - Modelagem de dados - Criação e otimização de queries
 Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
 
-Git e GitHub
+Task Scheduler (Windows)
 
-Power BI
+RPA com Selenium
 
-Selenium para automação
+Automação de processos internos
 
-Agendador de Tarefas do Windows (Task Scheduler)
-
-
-
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassbatistti&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassbatistti&layout=compact&theme=dark&hide_border=false"/> </div>
 📬 Contato
 
 ✉️ Email: lucassbatistti@gmail.com
