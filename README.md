@@ -39,9 +39,7 @@ Selenium para automação
 
 Agendador de Tarefas do Windows (Task Scheduler)
 
-📈 Estatísticas do GitHub
 
-(Essas permanecem, pois puxam diretamente do seu perfil)
 
 📬 Contato
 
