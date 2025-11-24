@@ -1,31 +1,75 @@
-LUCAS SHIMAZAKI BATISTTI
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-Analista de Dados | Estudante de Ciência da Computação | Automação, SQL & Desenvolvimento
+<h1 align="center">LUCAS SHIMAKI BATISTTI</h1>
 
-🔎 Sobre mim
+<p align="center">
+  Analista de Dados | Estudante de Ciência da Computação
+</p>
 
-Sou apaixonado por tecnologia e por resolver problemas reais usando dados e automação. Atuo como Analista de Dados na Oliveira & Antunes, criando consultas SQL avançadas, dashboards, automações em Python e ferramentas internas que deixam processos mais eficientes e inteligentes.
+---
 
-Estudo Ciência da Computação na FURB desde 2020, sempre buscando evoluir em engenharia de dados, automação e desenvolvimento de soluções internas.
+## 📌 Sobre mim
 
-🎓 Formação
+Sou apaixonado por tecnologia, análise de dados e desenvolvimento.  
+Atuo como **Analista de Dados**, criando insights, automações e soluções que ajudam empresas a tomar decisões mais estratégicas.  
+Também sou estudante de **Ciência da Computação na FURB**, sempre buscando aprender novas tecnologias e evoluir profissionalmente.
 
-🎓 Ciência da Computação — FURB (desde 2020)
+---
 
-🎓 Entra 21 - Java
+## 🎓 Formação
 
-💼 Analista de Dados — Oliveira & Antunes
+- 🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)  
+- 🖥 Entra21 – Java | Finalizado 2025  
 
-🛠️ Tecnologias
-<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;"> <!-- Linguagens --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <!-- Front-end --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <!-- Back-end --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> <!-- Banco de Dados --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45"/> <!-- Ferramentas --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/> </div>
+---
 
-Task Scheduler (Windows)
+## 🛠 Tecnologias
 
-RPA com Selenium
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,angular,react,nodejs,spring,mysql,git,selenium" height="120"/>
+</p>
 
-Automação de processos internos
+<p align="center">
+  <b>Outras habilidades:</b> Python • SQL • Dashboards • ETL • Pandas • Automação • Git
+</p>
 
+---
 
-📬 Contato
+## 🎯 Objetivo
 
-✉️ Email: lucassbatistti@gmail.com
+Continuar evoluindo como profissional de tecnologia, aplicando conhecimentos em dados, desenvolvimento e automação.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shima2803&show_icons=true&theme=dark&hide_border=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
+</div>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:lucassbatistti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucasshimazakibatistti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
+
+</body>
+</html>
