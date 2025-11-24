@@ -25,8 +25,7 @@ RPA com Selenium
 
 Automação de processos internos
 
-📊 GitHub Stats
-height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/> </div>
+
 📬 Contato
 
 ✉️ Email: lucassbatistti@gmail.com
