@@ -50,7 +50,7 @@ Continuar evoluindo como profissional de tecnologia, aplicando conhecimentos em 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shima2803&show_icons=true&theme=dark&hide_border=false&count_private=true"/>
+ 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
 </div>
 
