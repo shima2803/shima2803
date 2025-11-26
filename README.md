@@ -56,7 +56,7 @@ Continuar evoluindo como profissional de tecnologia, aplicando conhecimentos em 
 
 ---
 
-## 📬 Contato
+## 📬 Contatos
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
