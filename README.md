@@ -41,17 +41,16 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 
 ---
 
-## 🎯 Objetivo
-
-Continuar evoluindo como profissional de tecnologia, aplicando conhecimentos em dados, desenvolvimento e automação.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
- 
+
+  <!-- Estatísticas principais -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shima2803&show_icons=true&theme=dark&hide_border=false&count_private=true"/>
+
+  <!-- Linguagens mais usadas (você já tinha) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
+
 </div>
 
 ---
