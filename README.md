@@ -12,7 +12,15 @@
   Analista de Dados | Estudante de Ciência da Computação
 </p>
 
+<!-- Contador de visitas centralizado -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shima2803&color=orange&style=for-the-badge"/>
+</p>
+
 ---
+
+
+
 
 ## 📌 Sobre mim
 
@@ -45,11 +53,20 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 
 <div align="center">
 
-  <!-- Estatísticas principais -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shima2803&show_icons=true&theme=dark&hide_border=false&count_private=true"/>
+    
 
   <!-- Linguagens mais usadas (você já tinha) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
+<br>
+<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=darkhub&row=1&column=6"/>
+
+  
+
+
+
+
+
 
 </div>
 
@@ -69,6 +86,8 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 ---
 
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </body>
 </html>
