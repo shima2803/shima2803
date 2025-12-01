@@ -19,9 +19,6 @@
 
 ---
 
-
-
-
 ## 📌 Sobre mim
 
 Sou apaixonado por tecnologia, análise de dados e desenvolvimento.  
@@ -53,20 +50,28 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 
 <div align="center">
 
-    
+  <!-- Linha 1: Stats + Streak -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  </div>
 
-  <!-- Linguagens mais usadas (você já tinha) -->
+  <br>
+
+  <!-- Linha 2: Linguagens mais usadas (o seu original) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
-<br>
-<br>
+
+  <br><br>
+
+  <!-- Linha 3: Trophies (seu original) -->
   <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=darkhub&row=1&column=6"/>
 
-  
+  <br><br>
+
+  <!-- Linha 4: Snake (seu original) -->
 
 
-
-
-
+  <!-- Linha 5: Activity Graph (novo card grande e bonito) -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shima2803&theme=github-dark&hide_border=false"/>
 
 </div>
 
@@ -84,10 +89,10 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 </p>
 
 ---
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+  <br><br>
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </body>
 </html>
