@@ -34,7 +34,7 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologia
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,angular,react,nodejs,spring,mysql,git,selenium" height="120"/>
