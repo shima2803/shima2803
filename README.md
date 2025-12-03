@@ -19,6 +19,17 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfólio de dashboards (DAX, Power Query, KPIs e modelagem).  
+🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — Automação completa de mailings: SQL + CSV + Upload + GUI.  
+🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Navegador automatizado de contratos no sistema interno.  
+🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Consultas SQL essenciais para operação de cobrança.  
+🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Atualização automatizada das bases PF/PJ.  
+🔹 <b><a href="https://github.com/shima2803/python_work">python_work</a></b> — Ferramentas internas e automações Python (Selenium, Tkinter etc.).
+
+---
+
 ## 📌 Sobre mim
 
 Sou apaixonado por tecnologia, análise de dados e desenvolvimento.  
@@ -62,15 +73,12 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 
   <br><br>
 
-  <!-- Linha 3: Trophies (seu original) -->
+  <!-- Linha 3: Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=darkhub&row=1&column=6"/>
 
   <br><br>
 
-  <!-- Linha 4: Snake (seu original) -->
-
-
-  <!-- Linha 5: Activity Graph (novo card grande e bonito) -->
+  <!-- Linha 5: Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shima2803&theme=github-dark&hide_border=false"/>
 
 </div>
@@ -89,9 +97,9 @@ Também sou estudante de **Ciência da Computação na FURB**, sempre buscando a
 </p>
 
 ---
-  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-  <br><br>
+<br><br>
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
 
 </body>
