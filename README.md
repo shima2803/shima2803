@@ -60,25 +60,7 @@ Também sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscand
   <b>Outras habilidades:</b> Python • SQL • Dashboards • ETL • Pandas • Automação • Git
 </p>
 
----
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <br>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=darkhub&row=1&column=6"/>
-
-  <br><br>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shima2803&theme=github-dark&hide_border=false"/>
-
-</div>
 
 ---
 
@@ -150,25 +132,6 @@ I am also a <b>Computer Science student at FURB</b>, always improving and learni
   <b>Other skills:</b> Python • SQL • Dashboards • ETL • Pandas • Automation • Git
 </p>
 
----
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <br>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dark&hide_border=false"/>
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=darkhub&row=1&column=6"/>
-
-  <br><br>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shima2803&theme=github-dark&hide_border=false"/>
-
-</div>
 
 ---
 
