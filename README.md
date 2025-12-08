@@ -11,7 +11,7 @@
   🇧🇷 <b>Português</b> | 🇺🇸 <a href="#english-version">English Version</a>
 </p>
 
-<h1 align="center">LUCAS SHIMAKI </h1>
+<h1 align="center">LUCAS SHIMAKI BATISTTI</h1>
 
 <p align="center">
   Analista de Dados | Estudante de Ciência da Computação
