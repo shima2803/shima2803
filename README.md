@@ -76,8 +76,6 @@ Também sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscand
 </p>
 
 ---
-
-
 <br><br>
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
 
