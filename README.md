@@ -17,11 +17,6 @@
   Data Analyst | Computer Science Student
 </p>
 
-<!-- VISIT COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shima2803&color=orange&style=for-the-badge"/>
-</p>
-
 ---
 
 <h2>🚀 Featured Projects</h2>
