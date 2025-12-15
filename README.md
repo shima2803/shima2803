@@ -76,11 +76,13 @@ Também sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscand
 </p>
 
 ---
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 
 <br><br>
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
 
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 <!-- ---------------------------------------------------------------------- -->
 <!-- -------------------------- ENGLISH VERSION ---------------------------- -->
 <!-- ---------------------------------------------------------------------- -->
