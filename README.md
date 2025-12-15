@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
 </head>
+
 <body>
 
 <!-- LANGUAGE BAR -->
@@ -17,42 +17,60 @@
   Data Analyst | Computer Science Student
 </p>
 
+
 ---
 
 <h2>🚀 Featured Projects</h2>
 
-🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfolio of dashboards (DAX, Power Query, KPIs, modeling).  
-🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — End-to-end mailing automation: SQL + CSV + Upload + GUI.  
-🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Automated contract navigator for internal systems.  
-🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Core SQL queries for collection operations.  
-🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Automated update of PF/PJ customer databases.  
+🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfolio of dashboards using DAX, Power Query, KPIs, and data modeling.<br>
+🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — End-to-end mailing automation (SQL + CSV + Upload + GUI).<br>
+🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Automated contract navigator for internal systems.<br>
+🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Core SQL queries for collection operations.<br>
+🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Automated update of customer databases (PF/PJ).<br>
 🔹 <b><a href="https://github.com/shima2803/python_work">python_work</a></b> — Internal tools and Python automations (Selenium, Tkinter, etc.).
 
 ---
 
 <h2>📌 About Me</h2>
 
-I am passionate about technology, data analysis, and software development.  
-I work as a <b>Data Analyst</b>, building insights, automations, and solutions that help companies make smarter, data-driven decisions.  
-I am also a <b>Computer Science student at FURB</b>, constantly improving my skills and learning new technologies.
+I am passionate about technology, data analysis, and software development.<br>
+I work as a <b>Data Analyst</b>, building insights, automations, and solutions that help companies make smarter, data-driven decisions.<br>
+I am also a <b>Computer Science student at FURB</b>, constantly improving my technical skills and learning new technologies.
 
 ---
 
 <h2>🎓 Education</h2>
 
-- 🎓 Computer Science – FURB (Regional University of Blumenau)  
-- 🖥 Entra21 – Java | Completed in 2025  
+- 🎓 Computer Science – FURB (Regional University of Blumenau)<br>
+- 🖥 Entra21 – Java | Completed in 2025
 
 ---
 
 <h2>🛠 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,angular,react,nodejs,spring,mysql,git,selenium" height="120"/>
+  <!-- LANGUAGES -->
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+  <!-- FRONTEND -->
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
+
+  <!-- BACKEND / FRAMEWORKS -->
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+
+  <!-- DATABASE -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+
+  <!-- TOOLS -->
+  <img src="https://skillicons.dev/icons?i=git,selenium" />
+
+  <!-- BI / DATA -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
 </p>
 
 <p align="center">
-  <b>Other skills:</b> Python • SQL • Dashboards • ETL • Pandas • Automation • Git
+  <b>Other skills:</b> Python • SQL • Dashboards • ETL • Pandas • Automation • Git • Power BI • Tableau
 </p>
 
 ---
@@ -74,13 +92,11 @@ I am also a <b>Computer Science student at FURB</b>, constantly improving my ski
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 <!-- ====================================================== -->
-<!-- =============== PORTUGUESE VERSION =================== -->
+<!-- ================= PORTUGUESE VERSION ================= -->
 <!-- ====================================================== -->
 
 <hr>
 <h2 id="versao-portugues">🇧🇷 Versão em Português</h2>
-
-<h1 align="center">LUCAS SHIMAKI BATISTTI</h1>
 
 <p align="center">
   Analista de Dados | Estudante de Ciência da Computação
@@ -90,38 +106,55 @@ I am also a <b>Computer Science student at FURB</b>, constantly improving my ski
 
 <h2>🚀 Projetos em Destaque</h2>
 
-🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfólio de dashboards (DAX, Power Query, KPIs e modelagem).  
-🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — Automação completa de mailings: SQL + CSV + Upload + GUI.  
-🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Navegador automatizado de contratos em sistema interno.  
-🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Consultas SQL essenciais para operações de cobrança.  
-🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Atualização automatizada de bases PF/PJ.  
+🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfólio de dashboards com DAX, Power Query, KPIs e modelagem.<br>
+🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — Automação completa de mailings (SQL + CSV + Upload + GUI).<br>
+🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Navegador automatizado de contratos em sistemas internos.<br>
+🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Consultas SQL essenciais para operações de cobrança.<br>
+🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Atualização automatizada de bases de clientes PF/PJ.<br>
 🔹 <b><a href="https://github.com/shima2803/python_work">python_work</a></b> — Ferramentas internas e automações em Python.
 
 ---
 
 <h2>📌 Sobre mim</h2>
 
-Sou apaixonado por tecnologia, análise de dados e desenvolvimento.  
-Atuo como <b>Analista de Dados</b>, criando insights, automações e soluções que ajudam empresas a tomar decisões mais estratégicas.  
-Sou estudante de <b>Ciência da Computação na FURB</b>, sempre em busca de evolução técnica e profissional.
+Sou apaixonado por tecnologia, análise de dados e desenvolvimento.<br>
+Atuo como <b>Analista de Dados</b>, criando insights, automações e soluções que ajudam empresas a tomar decisões mais estratégicas.<br>
+Sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscando evolução técnica e profissional.
 
 ---
 
 <h2>🎓 Formação</h2>
 
-- 🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)  
-- 🖥 Entra21 – Java | Concluído em 2025  
+- 🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)<br>
+- 🖥 Entra21 – Java | Concluído em 2025
 
 ---
 
 <h2>🛠 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,angular,react,nodejs,spring,mysql,git,selenium" height="120"/>
+  <!-- LINGUAGENS -->
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+  <!-- FRONTEND -->
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
+
+  <!-- BACKEND / FRAMEWORKS -->
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+
+  <!-- BANCO DE DADOS -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+
+  <!-- FERRAMENTAS -->
+  <img src="https://skillicons.dev/icons?i=git,selenium" />
+
+  <!-- BI / DADOS -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
 </p>
 
 <p align="center">
-  <b>Outras habilidades:</b> Python • SQL • Dashboards • ETL • Pandas • Automação • Git
+  <b>Outras habilidades:</b> Python • SQL • Dashboards • ETL • Pandas • Automação • Git • Power BI • Tableau
 </p>
 
 ---
