@@ -91,6 +91,9 @@ I am also a <b>Computer Science student at FURB</b>, constantly improving my tec
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+ <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dracula&hide_border=false"/>
+
+
 <!-- ====================================================== -->
 <!-- ================= PORTUGUESE VERSION ================= -->
 <!-- ====================================================== -->
