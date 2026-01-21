@@ -76,16 +76,15 @@ I am also a <b>Computer Science student at FURB</b>, constantly improving my tec
 ---
 
 <h2>📬 Contact</h2>
-
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="34"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/lucasshimazakibatistti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="34"/>
   </a>
 </p>
-
 <br>
 <p align="center"><i>"Growing a little every day — always learning, always building."</i></p>
 
@@ -168,12 +167,14 @@ Sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscando evolu�
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="34"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/lucasshimazakibatistti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="34"/>
   </a>
 </p>
+
 
 <br>
 <p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
