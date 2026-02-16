@@ -48,7 +48,7 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
 <h2>🛠 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
   <br><br>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
@@ -121,7 +121,7 @@ Sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscando evolu�
 <h2>🛠 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
   <br><br>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
