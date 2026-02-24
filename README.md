@@ -11,7 +11,7 @@
   🇺🇸 <b>English</b> | 🇧🇷 <a href="#versao-portugues">Português</a>
 </p>
 
-<h1 align="center">LUCAS SHIMAKI BATISTI</h1>
+<h1 align="center">LUCAS SHIMAKI BATISTTI</h1>
 
 <p align="center">
   Python Developer | Data Analyst | Computer Science Student
