@@ -6,61 +6,74 @@
 
 <body>
 
-<!-- LANGUAGE BAR -->
 <p align="center">
-  🇺🇸 <b>English</b> | 🇧🇷 <a href="#versao-portugues">Português</a>
+  <b>English</b> | <a href="#versao-portugues">Português</a>
 </p>
 
 <h1 align="center">LUCAS SHIMAKI BATISTTI</h1>
 
 <p align="center">
-  Python Developer | Data Analyst | Computer Science Student
+  Data Analyst | Business Intelligence | Computer Science Student
 </p>
 
 <hr>
 
-<h2>🚀 Featured Projects</h2>
+<h2>About Me</h2>
 
-🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfolio of dashboards using DAX, Power Query, KPIs, and data modeling.<br>
-🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — End-to-end mailing automation (SQL + CSV + Upload + GUI).<br>
-🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Automated contract navigator for internal systems.<br>
-🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Core SQL queries for collection operations.<br>
-🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Automated update of customer databases (PF/PJ).<br>
-🔹 <b><a href="https://github.com/shima2803/python_work">python_work</a></b> — Python tools and automations (Selenium, Tkinter, data processing, etc.).
+<p>
+I am a <b>Data Analyst</b> passionate about transforming data into clear insights and supporting better decision-making through analysis, dashboards, and data storytelling.
+</p>
 
-<hr>
+<p>
+My focus is on <b>Power BI</b>, <b>SQL</b>, <b>Python</b>, and data visualization, building solutions that help turn raw information into strategic value.
+</p>
 
-<h2>📌 About Me</h2>
-
-I am a <b>Python Developer</b> and <b>Data Analyst</b> passionate about building efficient, scalable, and data-driven solutions.<br>
-I work with data analysis, automation, and software development, creating tools that optimize processes and support better business decisions.<br>
-Currently, I am a <b>Computer Science student at FURB</b>, continuously improving my skills through hands-on projects and real-world applications.
+<p>
+Currently, I am a <b>Computer Science student at FURB</b>, continuously improving my analytical, technical, and business intelligence skills through practical projects and real-world challenges.
+</p>
 
 <hr>
 
-<h2>🎓 Education</h2>
+<h2>Education</h2>
 
-- 🎓 Computer Science – FURB (Regional University of Blumenau)<br>
-- 🖥 Entra21 – Java | Completed in 2025
+<p>
+🎓 Computer Science – FURB (Regional University of Blumenau)<br>
+🖥 Entra21 – Java | Completed in 2025
+</p>
 
 <hr>
 
-<h2>🛠 Technologies</h2>
+<h2>Core Skills</h2>
+
+<p>
+• Data Analysis<br>
+• Business Intelligence<br>
+• Dashboard Development<br>
+• Data Visualization<br>
+• SQL Queries<br>
+• ETL and Data Preparation<br>
+• Exploratory Data Analysis<br>
+• Storytelling with Data
+</p>
+
+<hr>
+
+<h2>Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git" />
   <br><br>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
 </p>
 
 <p align="center">
-  <b>Other skills:</b> Python • SQL • Data Analysis • ETL • Pandas • Automation • Git • Power BI • Tableau
+  <b>Tools:</b> Power BI • SQL • Python • Pandas • Excel • Tableau • Git
 </p>
 
 <hr>
 
-<h2>📬 Contact</h2>
+<h2>Contact</h2>
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
@@ -73,7 +86,7 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
 </p>
 
 <br>
-<p align="center"><i>"Growing a little every day — always learning, always building."</i></p>
+<p align="center"><i>"Turning data into insights, and insights into decisions."</i></p>
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -81,59 +94,69 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=dracula"/>
 </p>
 
-<!-- ====================================================== -->
-<!-- ================= PORTUGUESE VERSION ================= -->
-<!-- ====================================================== -->
-
 <hr>
-<h2 id="versao-portugues">🇧🇷 Versão em Português</h2>
+<h2 id="versao-portugues">Versão em Português</h2>
 
 <p align="center">
-  Desenvolvedor Python | Analista de Dados | Estudante de Ciência da Computação
+  Analista de Dados | Business Intelligence | Estudante de Ciência da Computação
 </p>
 
-<h2>🚀 Projetos em Destaque</h2>
+<h2>Sobre mim</h2>
 
-🔹 <b><a href="https://github.com/shima2803/PowerBi">PowerBi</a></b> — Portfólio de dashboards com DAX, Power Query, KPIs e modelagem de dados.<br>
-🔹 <b><a href="https://github.com/shima2803/MailingAutoFlow">MailingAutoFlow</a></b> — Automação completa de mailings (SQL + CSV + Upload + Interface gráfica).<br>
-🔹 <b><a href="https://github.com/shima2803/ReguaTotal">ReguaTotal</a></b> — Navegação automatizada de contratos em sistemas internos.<br>
-🔹 <b><a href="https://github.com/shima2803/MailingCoreSQL">MailingCoreSQL</a></b> — Consultas SQL essenciais para operações de cobrança.<br>
-🔹 <b><a href="https://github.com/shima2803/Banco-Nova_Vida">Banco-Nova_Vida</a></b> — Atualização automatizada de bases de clientes PF/PJ.<br>
-🔹 <b><a href="https://github.com/shima2803/python_work">python_work</a></b> — Ferramentas e automações em Python (Selenium, Tkinter, processamento de dados, etc.).
+<p>
+Sou <b>Analista de Dados</b>, apaixonado por transformar dados em insights claros e apoiar tomadas de decisão por meio de análises, dashboards e storytelling com dados.
+</p>
 
-<hr>
+<p>
+Meu foco está em <b>Power BI</b>, <b>SQL</b>, <b>Python</b> e visualização de dados, desenvolvendo soluções que transformam informações brutas em valor estratégico.
+</p>
 
-<h2>📌 Sobre mim</h2>
-
-Sou <b>Desenvolvedor Python</b> e <b>Analista de Dados</b>, apaixonado por tecnologia, automação e soluções orientadas a dados.<br>
-Atuo no desenvolvimento de sistemas, scripts e automações que otimizam processos e apoiam decisões estratégicas.<br>
-Sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscando evolução técnica por meio de projetos práticos e aprendizado contínuo.
+<p>
+Atualmente, sou estudante de <b>Ciência da Computação na FURB</b>, buscando evolução contínua nas áreas de análise de dados, BI e solução de problemas com dados.
+</p>
 
 <hr>
 
-<h2>🎓 Formação</h2>
+<h2>Formação</h2>
 
-- 🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)<br>
-- 🖥 Entra21 – Java | Concluído em 2025
+<p>
+🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)<br>
+🖥 Entra21 – Java | Concluído em 2025
+</p>
 
 <hr>
 
-<h2>🛠 Tecnologias</h2>
+<h2>Principais competências</h2>
+
+<p>
+• Análise de Dados<br>
+• Business Intelligence<br>
+• Desenvolvimento de Dashboards<br>
+• Visualização de Dados<br>
+• Consultas SQL<br>
+• ETL e Tratamento de Dados<br>
+• Análise Exploratória de Dados<br>
+• Storytelling com Dados
+</p>
+
+<hr>
+
+<h2>Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,angular,react,nodejs,spring,mysql,git,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git" />
   <br><br>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48" alt="Tableau"/>
 </p>
 
 <p align="center">
-  <b>Outras habilidades:</b> Python • SQL • Análise de Dados • ETL • Pandas • Automação • Git • Power BI • Tableau
+  <b>Ferramentas:</b> Power BI • SQL • Python • Pandas • Excel • Tableau • Git
 </p>
 
 <hr>
 
-<h2>📬 Contato</h2>
+<h2>Contato</h2>
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
@@ -146,7 +169,7 @@ Sou estudante de <b>Ciência da Computação na FURB</b>, sempre buscando evolu�
 </p>
 
 <br>
-<p align="center"><i>"Evoluindo um pouco a cada dia — sempre aprendendo, sempre construindo."</i></p>
+<p align="center"><i>"Transformando dados em insights, e insights em decisões."</i></p>
 
 </body>
 </html>
