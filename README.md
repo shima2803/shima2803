@@ -78,15 +78,15 @@ My goal is to grow professionally in the field of <b>Data Analytics</b> and <b>B
 <h2>Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="92" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="92" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="MySQL"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="92" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="92" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" alt="Power BI"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="92" alt="Tableau"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" alt="Tableau"/>
 </p>
 
 <p align="center">
@@ -192,15 +192,15 @@ Meu objetivo é crescer profissionalmente na área de <b>Análise de Dados</b> e
 <h2>Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="92" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="92" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="MySQL"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="92" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="92" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" alt="Power BI"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="92" alt="Tableau"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" alt="Tableau"/>
 </p>
 
 <p align="center">
