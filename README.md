@@ -37,8 +37,8 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
 <h2>Education</h2>
 
 <p>
-🎓 Computer Science – FURB (Regional University of Blumenau)<br>
-🖥 Entra21 – Java | Completed in 2025
+Computer Science – FURB (Regional University of Blumenau)<br>
+Entra21 – Java | Completed in 2025
 </p>
 
 <hr>
@@ -61,11 +61,15 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
 <h2>Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git&perline=3" height="78" alt="Python MySQL Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="78" alt="Power BI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="78" alt="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=python" height="86" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="86" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="86" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="72" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="72" alt="Tableau"/>
 </p>
 
 <p align="center">
@@ -78,11 +82,11 @@ Currently, I am a <b>Computer Science student at FURB</b>, continuously improvin
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="34" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="46" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucasshimazakibatistti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -121,8 +125,8 @@ Atualmente, sou estudante de <b>Ciência da Computação na FURB</b>, buscando e
 <h2>Formação</h2>
 
 <p>
-🎓 Ciência da Computação – FURB (Universidade Regional de Blumenau)<br>
-🖥 Entra21 – Java | Concluído em 2025
+Ciência da Computação – FURB (Universidade Regional de Blumenau)<br>
+Entra21 – Java | Concluído em 2025
 </p>
 
 <hr>
@@ -145,11 +149,15 @@ Atualmente, sou estudante de <b>Ciência da Computação na FURB</b>, buscando e
 <h2>Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git&perline=3" height="78" alt="Python MySQL Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="78" alt="Power BI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="78" alt="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=python" height="86" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="86" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="86" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="72" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="72" alt="Tableau"/>
 </p>
 
 <p align="center">
@@ -162,11 +170,11 @@ Atualmente, sou estudante de <b>Ciência da Computação na FURB</b>, buscando e
 
 <p align="center">
   <a href="mailto:lucassbatistti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="34" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="46" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucasshimazakibatistti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/>
   </a>
 </p>
 
