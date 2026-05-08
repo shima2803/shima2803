@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=250&section=header&text=Lucas%20Shimaki%20Batistti&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=55&descAlign=50" alt="Lucas Shimaki Batistti" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Lucas%20Shimaki%20Batistti&fontSize=50&fontColor=0052cc&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=55&descAlign=50" alt="Lucas Shimaki Batistti" width="100%" />
 </div>
 
 <p align="center">
@@ -122,10 +122,7 @@ Portal de recrutamento **full-stack** que conecta candidatos a empresas. Inclui 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/shima2803">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shima2803&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0052cc&icon_color=0052cc" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima2803&layout=compact&theme=tokyonight&hide_border=true&title_color=0052cc" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shima2803&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -179,5 +176,5 @@ Sou **Analista de Dados** em Blumenau (SC) e estudante de **Ciência da Computa�
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" width="100%" />
 </div>
