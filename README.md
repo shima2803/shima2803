@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About M
 
 I'm a **Data Scientist in training** based in Blumenau (SC, Brazil) and a Computer Science student at **FURB**. My focus is the full data pipeline: from **collection and cleaning** to **statistical analysis**, **predictive modeling**, and **communication of insights** that actually drive decisions.
 
