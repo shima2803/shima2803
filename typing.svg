@@ -1,0 +1,32 @@
+﻿<svg width="1120" height="108" viewBox="0 0 1120 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label  { font: 600 13px ui-monospace, monospace; fill: #7d8bb0; }
+    .phrase { font: 700 25px ui-monospace, monospace; fill: #f0f6fc; opacity: 0; }
+    .p1 { animation: rotate 18s infinite 0s; }
+    .p2 { animation: rotate 18s infinite 3.6s; }
+    .p3 { animation: rotate 18s infinite 7.2s; }
+    .p4 { animation: rotate 18s infinite 10.8s; }
+    .p5 { animation: rotate 18s infinite 14.4s; }
+    .scan { animation: scan 9s linear infinite; }
+    @keyframes rotate { 0%{opacity:0;transform:translateY(8px);} 6%{opacity:1;transform:translateY(0);} 17%{opacity:1;transform:translateY(0);} 23%{opacity:0;transform:translateY(-8px);} 100%{opacity:0;transform:translateY(-8px);} }
+    @keyframes scan { 0%{transform:translateX(-280px);} 100%{transform:translateX(1160px);} }
+  </style>
+  <defs>
+    <linearGradient id="border" x1="40" y1="0" x2="1080" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4c8dff"/><stop offset="0.5" stop-color="#38d6c8"/><stop offset="1" stop-color="#b98cff"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38d6c8" stop-opacity="0"/><stop offset="0.5" stop-color="#38d6c8" stop-opacity="0.22"/><stop offset="1" stop-color="#38d6c8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="14" width="1080" height="80" rx="18" fill="#0a0e17" stroke="url(#border)"/>
+  <rect class="scan" x="20" y="14" width="280" height="80" rx="18" fill="url(#beam)"/>
+  <text class="label" x="560" y="40" text-anchor="middle">now running -&gt;</text>
+  <g text-anchor="middle">
+    <text class="phrase p1" x="560" y="74">Data Science - Python - SQL - statistics that hold up</text>
+    <text class="phrase p2" x="560" y="74">From messy data to models, dashboards and decisions</text>
+    <text class="phrase p3" x="560" y="74">Machine Learning - scikit-learn - PyTorch - XGBoost</text>
+    <text class="phrase p4" x="560" y="74">Power BI - storytelling - KPIs that drive action</text>
+    <text class="phrase p5" x="560" y="74">Analytics Engineering - dbt - Airflow - MLOps (soon)</text>
+  </g>
+</svg>

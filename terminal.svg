@@ -1,0 +1,79 @@
+﻿<svg width="1120" height="800" viewBox="0 0 1120 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1120" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0e17"/><stop offset="0.5" stop-color="#0a1120"/><stop offset="1" stop-color="#0d1526"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="20" y1="20" x2="1100" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4c8dff"/><stop offset="0.5" stop-color="#38d6c8"/><stop offset="1" stop-color="#b98cff"/>
+    </linearGradient>
+    <linearGradient id="prog" x1="0" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4c8dff"/><stop offset="1" stop-color="#38d6c8"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect x="16" y="16" width="1088" height="768" rx="20" fill="url(#bg)" stroke="url(#stroke)" filter="url(#shadow)"/>
+  <rect x="16" y="16" width="1088" height="52" rx="20" fill="#111a2b"/>
+  <circle cx="46" cy="42" r="7" fill="#ff5f56"/><circle cx="70" cy="42" r="7" fill="#ffbd2e"/><circle cx="94" cy="42" r="7" fill="#27c93f"/>
+  <text x="560" y="47" text-anchor="middle" fill="#7d8bb0" font-size="14" font-family="ui-monospace, monospace">lucas@furb: ~/ds-lab - jupyter</text>
+  <rect x="978" y="29" width="98" height="26" rx="13" fill="#0a0e17" stroke="#38d6c8" opacity="0.95"/>
+  <circle cx="996" cy="42" r="4" fill="#38d6c8"><animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="1009" y="46" fill="#7defe0" font-size="10.5" font-family="ui-monospace, monospace">python3</text>
+  <g font-family="ui-monospace, monospace" font-size="15">
+    <text x="44" y="104" fill="#4c8dff" font-weight="700" opacity="0">In [1]:<animate attributeName="opacity" to="1" dur="0.01s" begin="0.2s" fill="freeze"/></text>
+    <text x="132" y="104" fill="#e8eefc" opacity="0">import pandas as pd, numpy as np<animate attributeName="opacity" to="1" dur="0.01s" begin="0.2s" fill="freeze"/></text>
+    <text x="132" y="129" fill="#e8eefc" opacity="0">from sklearn.ensemble import GradientBoostingClassifier<animate attributeName="opacity" to="1" dur="0.01s" begin="0.5s" fill="freeze"/></text>
+    <text x="132" y="154" fill="#e8eefc" opacity="0">from sklearn.metrics import roc_auc_score, f1_score<animate attributeName="opacity" to="1" dur="0.01s" begin="0.8s" fill="freeze"/></text>
+    <text x="44" y="196" fill="#4c8dff" font-weight="700" opacity="0">In [2]:<animate attributeName="opacity" to="1" dur="0.01s" begin="1.15s" fill="freeze"/></text>
+    <text x="132" y="196" fill="#e8eefc" opacity="0">whoami()<animate attributeName="opacity" to="1" dur="0.01s" begin="1.15s" fill="freeze"/></text>
+    <text x="44" y="221" fill="#b98cff" font-weight="700" opacity="0">Out[2]:<animate attributeName="opacity" to="1" dur="0.01s" begin="1.45s" fill="freeze"/></text>
+    <text x="132" y="221" fill="#f0f6fc" opacity="0">Lucas Shimaki Batistti - Data Scientist (in training)<animate attributeName="opacity" to="1" dur="0.01s" begin="1.45s" fill="freeze"/></text>
+    <text x="132" y="246" fill="#9fb0d6" opacity="0">Ciencia da Computacao @ FURB - Blumenau, Brasil<animate attributeName="opacity" to="1" dur="0.01s" begin="1.75s" fill="freeze"/></text>
+    <text x="44" y="288" fill="#4c8dff" font-weight="700" opacity="0">In [3]:<animate attributeName="opacity" to="1" dur="0.01s" begin="2.1s" fill="freeze"/></text>
+    <text x="132" y="288" fill="#e8eefc" opacity="0">df = load("real_world.csv"); df.shape<animate attributeName="opacity" to="1" dur="0.01s" begin="2.1s" fill="freeze"/></text>
+    <text x="44" y="313" fill="#b98cff" font-weight="700" opacity="0">Out[3]:<animate attributeName="opacity" to="1" dur="0.01s" begin="2.4s" fill="freeze"/></text>
+    <text x="132" y="313" fill="#f0f6fc" opacity="0">(128540, 37)<animate attributeName="opacity" to="1" dur="0.01s" begin="2.4s" fill="freeze"/></text>
+    <text x="270" y="313" fill="#7d8bb0" font-style="italic" opacity="0"># missing, imbalanced - como sempre<animate attributeName="opacity" to="1" dur="0.01s" begin="2.4s" fill="freeze"/></text>
+    <text x="44" y="355" fill="#4c8dff" font-weight="700" opacity="0">In [4]:<animate attributeName="opacity" to="1" dur="0.01s" begin="2.75s" fill="freeze"/></text>
+    <text x="132" y="355" fill="#e8eefc" opacity="0">df.pipe(clean).pipe(features); model.fit(X, y)<animate attributeName="opacity" to="1" dur="0.01s" begin="2.75s" fill="freeze"/></text>
+    <text x="132" y="385" fill="#38d6c8" opacity="0">Epoch<animate attributeName="opacity" to="1" dur="0.01s" begin="3.05s" fill="freeze"/></text>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.01s" begin="3.05s" fill="freeze"/>
+      <text x="205" y="385" fill="#38d6c8">04/20<animate attributeName="opacity" to="1" dur="0.01s" begin="3.2s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.55s" fill="freeze"/></text>
+      <text x="205" y="385" fill="#38d6c8" opacity="0">08/20<animate attributeName="opacity" to="1" dur="0.01s" begin="3.55s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.9s" fill="freeze"/></text>
+      <text x="205" y="385" fill="#38d6c8" opacity="0">12/20<animate attributeName="opacity" to="1" dur="0.01s" begin="3.9s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.25s" fill="freeze"/></text>
+      <text x="205" y="385" fill="#38d6c8" opacity="0">16/20<animate attributeName="opacity" to="1" dur="0.01s" begin="4.25s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+      <text x="205" y="385" fill="#38d6c8" opacity="0">20/20<animate attributeName="opacity" to="1" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+    </g>
+    <rect x="280" y="372" width="300" height="12" rx="6" fill="#1b2740" opacity="0"><animate attributeName="opacity" to="1" dur="0.01s" begin="3.05s" fill="freeze"/></rect>
+    <rect x="280" y="372" width="0" height="12" rx="6" fill="url(#prog)"><animate attributeName="width" from="0" to="300" dur="1.4s" begin="3.2s" fill="freeze"/></rect>
+    <text x="600" y="385" fill="#7d8bb0" opacity="0">loss<animate attributeName="opacity" to="1" dur="0.01s" begin="3.05s" fill="freeze"/></text>
+    <g><text x="645" y="385" fill="#ffb457">0.641<animate attributeName="opacity" to="1" dur="0.01s" begin="3.2s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.55s" fill="freeze"/></text>
+      <text x="645" y="385" fill="#ffb457" opacity="0">0.402<animate attributeName="opacity" to="1" dur="0.01s" begin="3.55s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.9s" fill="freeze"/></text>
+      <text x="645" y="385" fill="#e8c06a" opacity="0">0.263<animate attributeName="opacity" to="1" dur="0.01s" begin="3.9s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.25s" fill="freeze"/></text>
+      <text x="645" y="385" fill="#9fd67a" opacity="0">0.171<animate attributeName="opacity" to="1" dur="0.01s" begin="4.25s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+      <text x="645" y="385" fill="#56d364" opacity="0">0.108<animate attributeName="opacity" to="1" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+    </g>
+    <text x="720" y="385" fill="#7d8bb0" opacity="0">val_auc<animate attributeName="opacity" to="1" dur="0.01s" begin="3.05s" fill="freeze"/></text>
+    <g><text x="800" y="385" fill="#56d364">0.79<animate attributeName="opacity" to="1" dur="0.01s" begin="3.2s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.55s" fill="freeze"/></text>
+      <text x="800" y="385" fill="#56d364" opacity="0">0.86<animate attributeName="opacity" to="1" dur="0.01s" begin="3.55s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="3.9s" fill="freeze"/></text>
+      <text x="800" y="385" fill="#56d364" opacity="0">0.91<animate attributeName="opacity" to="1" dur="0.01s" begin="3.9s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.25s" fill="freeze"/></text>
+      <text x="800" y="385" fill="#56d364" opacity="0">0.94<animate attributeName="opacity" to="1" dur="0.01s" begin="4.25s" fill="freeze"/><animate attributeName="opacity" to="0" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+      <text x="800" y="385" fill="#56d364" opacity="0">0.947<animate attributeName="opacity" to="1" dur="0.01s" begin="4.6s" fill="freeze"/></text>
+    </g>
+    <text x="44" y="430" fill="#b98cff" font-weight="700" opacity="0">Out[4]:<animate attributeName="opacity" to="1" dur="0.01s" begin="4.95s" fill="freeze"/></text>
+    <text x="132" y="430" fill="#56d364" font-weight="700" opacity="0">Accuracy 0.93 - ROC-AUC 0.95 - F1 0.91<animate attributeName="opacity" to="1" dur="0.01s" begin="4.95s" fill="freeze"/></text>
+    <text x="44" y="472" fill="#4c8dff" font-weight="700" opacity="0">In [5]:<animate attributeName="opacity" to="1" dur="0.01s" begin="5.3s" fill="freeze"/></text>
+    <text x="132" y="472" fill="#e8eefc" opacity="0">stack.list()<animate attributeName="opacity" to="1" dur="0.01s" begin="5.3s" fill="freeze"/></text>
+    <text x="132" y="497" fill="#38d6c8" opacity="0">python - pandas - numpy - scikit-learn - pytorch - xgboost<animate attributeName="opacity" to="1" dur="0.01s" begin="5.6s" fill="freeze"/></text>
+    <text x="132" y="522" fill="#38d6c8" opacity="0">sql - power bi - dbt - airflow - docker - fastapi<animate attributeName="opacity" to="1" dur="0.01s" begin="5.9s" fill="freeze"/></text>
+    <text x="44" y="564" fill="#4c8dff" font-weight="700" opacity="0">In [6]:<animate attributeName="opacity" to="1" dur="0.01s" begin="6.25s" fill="freeze"/></text>
+    <text x="132" y="564" fill="#e8eefc" opacity="0">git log --projects --oneline<animate attributeName="opacity" to="1" dur="0.01s" begin="6.25s" fill="freeze"/></text>
+    <text x="132" y="589" fill="#a5c9ff" opacity="0">encontra-talentos - Brazil-Stocks - Olist-EDA - AI_Student<animate attributeName="opacity" to="1" dur="0.01s" begin="6.55s" fill="freeze"/></text>
+    <text x="44" y="631" fill="#4c8dff" font-weight="700" opacity="0">In [7]:<animate attributeName="opacity" to="1" dur="0.01s" begin="6.9s" fill="freeze"/></text>
+    <text x="132" y="631" fill="#e8eefc" opacity="0">print(insight)<animate attributeName="opacity" to="1" dur="0.01s" begin="6.9s" fill="freeze"/></text>
+    <text x="132" y="656" fill="#a5c9ff" font-style="italic" opacity="0">"Without data, you are just another person with an opinion."<animate attributeName="opacity" to="1" dur="0.01s" begin="7.2s" fill="freeze"/></text>
+    <text x="132" y="681" fill="#f0f6fc" opacity="0">-&gt; turning messy data into models, dashboards and decisions.<animate attributeName="opacity" to="1" dur="0.01s" begin="7.5s" fill="freeze"/></text>
+    <rect x="628" y="668" width="9" height="18" rx="2" fill="#38d6c8" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.9s" begin="7.9s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

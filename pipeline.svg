@@ -1,0 +1,38 @@
+﻿<svg width="1120" height="300" viewBox="0 0 1120 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="60" y1="180" x2="1060" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4c8dff"/><stop offset="0.5" stop-color="#38d6c8"/><stop offset="1" stop-color="#b98cff"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1120" height="300" rx="18" fill="#0a0e17"/>
+  <text x="560" y="46" text-anchor="middle" fill="#f0f6fc" font-size="23" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Data science lifecycle</text>
+  <text x="560" y="72" text-anchor="middle" fill="#7d8bb0" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">from raw, messy data to decisions people can trust</text>
+  <rect x="72" y="178" width="976" height="4" rx="2" fill="url(#line)" opacity="0.85"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#soft)">
+    <g><rect x="40" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#4c8dff"/>
+      <text x="110" y="176" text-anchor="middle" fill="#4c8dff" font-size="16" font-weight="700">Collect</text>
+      <text x="110" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">data and sources</text></g>
+    <g><rect x="216" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#34b7f0"/>
+      <text x="286" y="176" text-anchor="middle" fill="#34b7f0" font-size="16" font-weight="700">Clean</text>
+      <text x="286" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">nulls and outliers</text></g>
+    <g><rect x="392" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#38d6c8"/>
+      <text x="462" y="176" text-anchor="middle" fill="#38d6c8" font-size="16" font-weight="700">Explore</text>
+      <text x="462" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">EDA and stats</text></g>
+    <g><rect x="568" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#7aa2ff"/>
+      <text x="638" y="176" text-anchor="middle" fill="#7aa2ff" font-size="16" font-weight="700">Model</text>
+      <text x="638" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">train and tune</text></g>
+    <g><rect x="744" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#b98cff"/>
+      <text x="814" y="176" text-anchor="middle" fill="#b98cff" font-size="16" font-weight="700">Evaluate</text>
+      <text x="814" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">metrics and bias</text></g>
+    <g><rect x="920" y="140" width="140" height="80" rx="14" fill="#131a29" stroke="#56d364"/>
+      <text x="990" y="176" text-anchor="middle" fill="#56d364" font-size="16" font-weight="700">Deploy</text>
+      <text x="990" y="198" text-anchor="middle" fill="#7d8bb0" font-size="12">dashboards and apps</text></g>
+  </g>
+  <circle cx="72" cy="180" r="6" fill="#38d6c8">
+    <animate attributeName="cx" values="72;1048;72" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
