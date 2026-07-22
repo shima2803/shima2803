@@ -5,8 +5,8 @@
 <h1 align="center">Lucas Shimaki Batistti</h1>
 
 <p align="center">
-  <strong>Data Scientist (in training) · Machine Learning · Statistics · Analytics Engineering</strong><br/>
-  Turning messy real-world data into models, dashboards and decisions.
+  <strong>Data Scientist (in training) · Machine Learning · Statistical Modeling</strong><br/>
+  Turning messy real-world data into models, insights and decisions.
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-0a0e17?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=131a29" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0a0e17?style=for-the-badge&logo=postgresql&logoColor=4c8dff&labelColor=131a29" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0a0e17?style=for-the-badge&logo=numpy&logoColor=4c8dff&labelColor=131a29" />
   <img alt="pandas" src="https://img.shields.io/badge/pandas-0a0e17?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=131a29" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0a0e17?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=131a29" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0a0e17?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=131a29" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0a0e17?style=for-the-badge&logo=postgresql&logoColor=38d6c8&labelColor=131a29" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0a0e17?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=131a29" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0a0e17?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=131a29" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0a0e17?style=for-the-badge&logo=fastapi&logoColor=38d6c8&labelColor=131a29" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0a0e17?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=131a29" />
 </p>
 
 <p align="center">
@@ -38,9 +38,9 @@
 
 ## About
 
-I work at the intersection of **statistics, programming and business**. My focus is the full data pipeline: from **collection and cleaning**, through **exploratory analysis and statistical / predictive modeling**, to the **communication of insights** that actually drive decisions.
+I'm a Data Scientist in training, focused on **statistics, machine learning and predictive modeling**. I like the full path from a messy dataset to a decision: **cleaning and exploring data, testing hypotheses, building and validating models, and communicating what the numbers actually mean**.
 
-I'm a Computer Science student at **FURB** (Universidade Regional de Blumenau) and I care about the parts of the work that are easy to skip: data quality, honest validation, and dashboards that make a decision easier instead of just prettier.
+Computer Science student at **FURB** (Universidade Regional de Blumenau). I care most about the parts that are easy to skip — data quality, honest validation, and results a non-technical person can act on.
 
 <p align="center">
   <img src="./pipeline.svg" alt="Data science lifecycle diagram" />
@@ -48,38 +48,37 @@ I'm a Computer Science student at **FURB** (Universidade Regional de Blumenau) a
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | What it does | Stack |
+Analytics and machine-learning work — from exploratory analysis to applied models.
+
+| Project | Data work | Stack |
 |---|---|---|
-| [encontra-talentos](https://github.com/shima2803/encontra-talentos) | Full-stack recruitment portal with AI-driven resume analysis, external job aggregation and candidate-to-vacancy matching. | Next.js, TypeScript, FastAPI, PostgreSQL, Gemini |
-| [Brazil-Stocks](https://github.com/shima2803/Brazil-Stocks) | Time-series analysis of Brazilian stocks (B3): price evolution, volume, volatility and financial KPIs. | Power BI, DAX, Python |
-| [Brasil E-Commerce (Olist)](https://github.com/shima2803/Brasil-E-Commerce-2016-2018-) | EDA on Brazilian e-commerce (2016–2018): sales patterns, shipping behavior, satisfaction and cohorts. | Power BI, SQL, pandas |
-| [AI_Student](https://github.com/shima2803/AI_Student) | Impact of AI on student routines — usage, perception and correlation with academic performance. | Power BI, statistics |
-| [Eletric_Cars](https://github.com/shima2803/Eletric_Cars) | Evolution of electric vehicles in Brazil — sales, brands, distribution and charging infrastructure. | Power BI, pandas |
-| [Laysoffs](https://github.com/shima2803/Laysoffs) | Global layoffs dashboard — companies, industries, regions and temporal trends. | Power BI, data cleaning |
-
-> Also: [`WaatWorks`](https://github.com/shima2803/WaatWorks) (Java · Entra21 — energy-bill parsing).
-> In development: an RPA pipeline `Power BI → PostgreSQL` (Selenium + psycopg2 + idempotent loads).
+| [encontra-talentos](https://github.com/shima2803/encontra-talentos) | Applied ML: AI-driven resume analysis and candidate-to-vacancy matching inside a full-stack recruitment portal. | Python, FastAPI, Gemini, PostgreSQL |
+| [AI_Student](https://github.com/shima2803/AI_Student) | Statistical study of AI's impact on student routines — usage, perception and correlation with academic performance. | Python, statistics, Power BI |
+| [Brazil-Stocks](https://github.com/shima2803/Brazil-Stocks) | Time-series analysis of Brazilian stocks (B3): returns, volume, volatility and financial KPIs. | Python, Power BI, DAX |
+| [Brasil E-Commerce (Olist)](https://github.com/shima2803/Brasil-E-Commerce-2016-2018-) | EDA on Brazilian e-commerce (2016–2018): sales patterns, delivery behavior, satisfaction and cohort analysis. | pandas, SQL, Power BI |
+| [Eletric_Cars](https://github.com/shima2803/Eletric_Cars) | Exploratory analysis of electric vehicles in Brazil — adoption, brands and geographic distribution. | pandas, Power BI |
+| [Laysoffs](https://github.com/shima2803/Laysoffs) | Cleaning and analysis of global layoffs — companies, industries, regions and temporal trends. | Python, data cleaning, Power BI |
 
 ---
 
-## Main Stack
+## Toolbox
 
 **Languages**  
-Python · SQL · R · Java · JavaScript · Bash
+Python · SQL · R
 
-**Data & Analysis**  
-pandas · NumPy · Polars · SciPy · statsmodels · EDA · feature engineering
+**Data & Statistics**  
+pandas · NumPy · Polars · SciPy · statsmodels · EDA · feature engineering · hypothesis testing
 
 **Machine & Deep Learning**  
 scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · Keras · Hugging Face
 
-**Visualization & BI**  
+**Visualization**  
 Power BI · DAX · Matplotlib · Seaborn · Plotly · Streamlit
 
-**Data Engineering & MLOps**  
-PostgreSQL · MySQL · BigQuery · Airflow · dbt · Spark · MLflow · Docker · FastAPI
+**Environment**  
+Jupyter · PostgreSQL · Git · VS Code
 
 ---
 
@@ -91,18 +90,16 @@ PostgreSQL · MySQL · BigQuery · Airflow · dbt · Spark · MLflow · Docker �
 | **Machine Learning** | Supervised / unsupervised · Tree-based models · Ensembles · Cross-validation |
 | **Deep Learning** | Neural networks · CNNs · RNNs · Transformers (intro level) |
 | **NLP** | Text preprocessing · Embeddings · LLMs · RAG applications |
-| **Analytics Engineering** | ELT · Kimball modeling · Data quality · Lineage |
-| **Business Intelligence** | KPI design · Storytelling · Dashboards that drive action |
 
 ---
 
 ## Currently
 
-- Studying **Machine Learning, Deep Learning, statistical inference and causal inference**.
+- Studying **deep learning, statistical inference and causal inference**.
 - Building [`encontra-talentos`](https://github.com/shima2803/encontra-talentos) — AI-based resume analysis with Gemini.
-- Roadmap: **MLOps** (MLflow, DVC), **dbt**, **Apache Airflow**, **PySpark** and dimensional modeling.
+- Deepening the **experimentation & modeling** side: feature engineering, model validation, metrics that matter.
+- Also learning the engineering around ML: **MLflow, dbt, Airflow, PySpark**.
 - Completed the **Java Bootcamp @ Entra21** (2025).
-- Ask me about: EDA, feature engineering, classical ML, SQL window functions, Power BI / DAX.
 
 ---
 
@@ -111,17 +108,15 @@ PostgreSQL · MySQL · BigQuery · Airflow · dbt · Spark · MLflow · Docker �
 
 <br>
 
-Sou **Cientista de Dados em formação** em Blumenau (SC) e estudante de **Ciência da Computação na FURB**. Meu foco é o pipeline completo de dados: da **coleta e limpeza** à **análise estatística**, **modelagem preditiva** e **comunicação de insights** que viram decisão.
+Sou **Cientista de Dados em formação**, com foco em **estatística, machine learning e modelagem preditiva**. Gosto do caminho completo, do dataset bagunçado até a decisão: **limpar e explorar dados, testar hipóteses, treinar e validar modelos e comunicar o que os números realmente dizem**.
 
-Trabalho na interseção entre **estatística, programação e negócio** — transformando dados bagunçados do mundo real em modelos, dashboards e histórias.
+Estudante de **Ciência da Computação na FURB** (Blumenau, SC). Ligo mais para as partes que costumam ser puladas — qualidade dos dados, validação honesta e resultados que uma pessoa não técnica consiga usar.
 
-- Ciência da Computação @ **FURB**.
-- Estudando: **Machine Learning, Deep Learning, inferência estatística e causal**.
-- Bootcamp Java @ **Entra21** (2025) — concluído.
+- Estudando: **deep learning, inferência estatística e causal**.
 - Projeto ativo: [`encontra-talentos`](https://github.com/shima2803/encontra-talentos) — análise de currículo com IA (Gemini).
-- Roadmap: **MLOps** (MLflow, DVC), **dbt**, **Airflow**, **PySpark** e modelagem dimensional.
-
-**Foco:** análise exploratória, modelagem estatística e preditiva, engenharia de dados e dashboards que conectam operação técnica a estratégia de negócio.
+- Aprofundando **experimentação e modelagem**: feature engineering, validação de modelos, métricas que importam.
+- Também aprendendo a engenharia em volta de ML: **MLflow, dbt, Airflow, PySpark**.
+- Bootcamp Java @ **Entra21** (2025) — concluído.
 
 </details>
 
@@ -134,5 +129,5 @@ Trabalho na interseção entre **estatística, programação e negócio** — tr
 </p>
 
 <p align="center">
-  <em>Turning messy data into models, dashboards and decisions · transformando dados em decisão.</em>
+  <em>From messy data to models, insights and decisions · transformando dados em decisão.</em>
 </p>
