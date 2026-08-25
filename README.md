@@ -5,7 +5,7 @@
 <h1 align="center">Lucas Shimaki Batistti</h1>
 
 <p align="center">
-  <strong>Data Scientist (in training) · Machine Learning · Statistical Modeling</strong><br/>
+  <strong>Data Scientist · Machine Learning · Statistical Modeling</strong><br/>
   Turning messy real-world data into models, insights and decisions.
 </p>
 
@@ -38,7 +38,7 @@
 
 ## About
 
-I'm a Data Scientist in training, focused on **statistics, machine learning and predictive modeling**. I like the full path from a messy dataset to a decision: **cleaning and exploring data, testing hypotheses, building and validating models, and communicating what the numbers actually mean**.
+I'm a Data Scientist, focused on **statistics, machine learning and predictive modeling**. I like the full path from a messy dataset to a decision: **cleaning and exploring data, testing hypotheses, building and validating models, and communicating what the numbers actually mean**.
 
 Computer Science student at **FURB** (Universidade Regional de Blumenau). I care most about the parts that are easy to skip — data quality, honest validation, and results a non-technical person can act on.
 
