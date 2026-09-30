@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="./terminal.svg" alt="Animated Jupyter-style terminal for Lucas Shimaki Batistti" />
 </p>
 
