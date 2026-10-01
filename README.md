@@ -5,7 +5,7 @@
 <h1 align="center">Lucas Shimaki Batistti</h1>
 
 <p align="center">
-  <strong>Data Scientist · Machine Learning · Statistical Modeling</strong><br/>
+  <strong>Data Scientist · Machine Learning · Statistical Modeling</strong><br/> 
   Turning messy real-world data into models, insights and decisions.
 </p>
 
