@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./terminal.svg" alt="Animated Jupyter-style terminal for Lucas Shimaki Batistti" />
-</p>
+</p> 
  
 <h1 align="center">Lucas Shimaki Batistti</h1>
 
